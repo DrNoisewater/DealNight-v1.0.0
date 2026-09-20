@@ -1,0 +1,7 @@
+{
+  "name": "DealNight.Presentation",
+  "rootNamespace": "DealNight.Presentation",
+  "references": [
+    "DealNight.Core"
+  ]
+}

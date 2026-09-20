@@ -1,0 +1,12 @@
+# Known limitations and verification boundary
+
+- Unity is not installed in the delivery environment. The actual C# rules engine was compiled and executed with Mono, but Unity import, UI Toolkit compilation/rendering, Play Mode and Windows build execution still require local verification. Do not interpret the engine results as an Editor play-test result.
+- The interface uses automatically fitted board/hand regions at a 1600×900 reference size. The intended 1280×720 and 1920×1080 layouts have not been visually verified in Unity. Extremely crowded areas necessarily use smaller cards; full details remain available through the inspection dialog.
+- Individual changed cards animate between their previous and new UI locations, including draws, plays, trades and payments. Just Say No uses an original geometric glove overlay. Opponent draws use card backs. The animation system is not a physical card-table simulation and has not been visually verified in Unity.
+- Dragging is an inspection shortcut, not full pointer-following card placement. Click controls implement every gameplay choice. Legal targets are presented in staged player/card selectors rather than as glowing targets directly on the main table.
+- Presentation and timing have not received human playtesting. AI difficulties are heuristics and have not been calibrated against human skill.
+- Offline single-player is implemented. Network play, hot-seat mode, save/resume, localization, controller support are not included. The pure command engine and restricted observations provide boundaries for later extensions, not a ready-made networking implementation.
+- The rulebook documents edition-specific decisions, including valued-wildcard banking, free reactive Nos, dormant buildings and victory timing. Version 1.3 also uses the requested custom rule that explicit wildcard color rotation costs one play; receipts and same-color regrouping do not. Other printings or house rules may differ.
+- This is an unofficial personal fan project. Branding, styling and synthesized audio are original; Monopoly and card names identify the referenced game. The bundled DejaVu font retains its original license.
+
+Android build tooling and initial touch controls are included in v1.7.0, but Android compilation, device layouts and installation remain unverified. No prebuilt APK is supplied. Background pauses do not provide persistent match saving if Android terminates the process.

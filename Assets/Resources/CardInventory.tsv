@@ -1,0 +1,111 @@
+ID	Kind	Name	ValueM	Colors	Shuffled
+0	Property	Mediterranean Avenue	1	Brown	True
+1	Property	Baltic Avenue	1	Brown	True
+2	Property	Oriental Avenue	1	Light blue	True
+3	Property	Vermont Avenue	1	Light blue	True
+4	Property	Connecticut Avenue	1	Light blue	True
+5	Property	St. Charles Place	2	Pink	True
+6	Property	States Avenue	2	Pink	True
+7	Property	Virginia Avenue	2	Pink	True
+8	Property	St. James Place	2	Orange	True
+9	Property	Tennessee Avenue	2	Orange	True
+10	Property	New York Avenue	2	Orange	True
+11	Property	Kentucky Avenue	3	Red	True
+12	Property	Indiana Avenue	3	Red	True
+13	Property	Illinois Avenue	3	Red	True
+14	Property	Atlantic Avenue	3	Yellow	True
+15	Property	Ventnor Avenue	3	Yellow	True
+16	Property	Marvin Gardens	3	Yellow	True
+17	Property	Pacific Avenue	4	Green	True
+18	Property	North Carolina Avenue	4	Green	True
+19	Property	Pennsylvania Avenue	4	Green	True
+20	Property	Park Place	4	Dark blue	True
+21	Property	Boardwalk	4	Dark blue	True
+22	Property	Reading Railroad	2	Railroad	True
+23	Property	Pennsylvania Railroad	2	Railroad	True
+24	Property	B. & O. Railroad	2	Railroad	True
+25	Property	Short Line	2	Railroad	True
+26	Property	Electric Company	2	Utility	True
+27	Property	Water Works	2	Utility	True
+28	Wild	Property wildcard	1	Brown / Light blue	True
+29	Wild	Property wildcard	4	Light blue / Railroad	True
+30	Wild	Property wildcard	2	Pink / Orange	True
+31	Wild	Property wildcard	2	Pink / Orange	True
+32	Wild	Property wildcard	3	Red / Yellow	True
+33	Wild	Property wildcard	3	Red / Yellow	True
+34	Wild	Property wildcard	4	Dark blue / Green	True
+35	Wild	Property wildcard	4	Green / Railroad	True
+36	Wild	Property wildcard	2	Railroad / Utility	True
+37	Wild	Universal wildcard	0	Brown / Light blue / Pink / Orange / Red / Yellow / Green / Dark blue / Railroad / Utility	True
+38	Wild	Universal wildcard	0	Brown / Light blue / Pink / Orange / Red / Yellow / Green / Dark blue / Railroad / Utility	True
+39	Rent	Rent	1	Brown / Light blue	True
+40	Rent	Rent	1	Brown / Light blue	True
+41	Rent	Rent	1	Pink / Orange	True
+42	Rent	Rent	1	Pink / Orange	True
+43	Rent	Rent	1	Red / Yellow	True
+44	Rent	Rent	1	Red / Yellow	True
+45	Rent	Rent	1	Dark blue / Green	True
+46	Rent	Rent	1	Dark blue / Green	True
+47	Rent	Rent	1	Railroad / Utility	True
+48	Rent	Rent	1	Railroad / Utility	True
+49	Rent	Any-color rent	3	Brown / Light blue / Pink / Orange / Red / Yellow / Green / Dark blue / Railroad / Utility	True
+50	Rent	Any-color rent	3	Brown / Light blue / Pink / Orange / Red / Yellow / Green / Dark blue / Railroad / Utility	True
+51	Rent	Any-color rent	3	Brown / Light blue / Pink / Orange / Red / Yellow / Green / Dark blue / Railroad / Utility	True
+52	PassGo	Pass Go	1		True
+53	PassGo	Pass Go	1		True
+54	PassGo	Pass Go	1		True
+55	PassGo	Pass Go	1		True
+56	PassGo	Pass Go	1		True
+57	PassGo	Pass Go	1		True
+58	PassGo	Pass Go	1		True
+59	PassGo	Pass Go	1		True
+60	PassGo	Pass Go	1		True
+61	PassGo	Pass Go	1		True
+62	DebtCollector	Debt Collector	3		True
+63	DebtCollector	Debt Collector	3		True
+64	DebtCollector	Debt Collector	3		True
+65	Birthday	It's My Birthday	2		True
+66	Birthday	It's My Birthday	2		True
+67	Birthday	It's My Birthday	2		True
+68	SlyDeal	Sly Deal	3		True
+69	SlyDeal	Sly Deal	3		True
+70	SlyDeal	Sly Deal	3		True
+71	ForcedDeal	Forced Deal	3		True
+72	ForcedDeal	Forced Deal	3		True
+73	ForcedDeal	Forced Deal	3		True
+74	DealBreaker	Deal Breaker	5		True
+75	DealBreaker	Deal Breaker	5		True
+76	JustSayNo	Just Say No	4		True
+77	JustSayNo	Just Say No	4		True
+78	JustSayNo	Just Say No	4		True
+79	House	House	3		True
+80	House	House	3		True
+81	House	House	3		True
+82	Hotel	Hotel	4		True
+83	Hotel	Hotel	4		True
+84	DoubleRent	Double the Rent	1		True
+85	DoubleRent	Double the Rent	1		True
+86	Money	1M money	1		True
+87	Money	1M money	1		True
+88	Money	1M money	1		True
+89	Money	1M money	1		True
+90	Money	1M money	1		True
+91	Money	1M money	1		True
+92	Money	2M money	2		True
+93	Money	2M money	2		True
+94	Money	2M money	2		True
+95	Money	2M money	2		True
+96	Money	2M money	2		True
+97	Money	3M money	3		True
+98	Money	3M money	3		True
+99	Money	3M money	3		True
+100	Money	4M money	4		True
+101	Money	4M money	4		True
+102	Money	4M money	4		True
+103	Money	5M money	5		True
+104	Money	5M money	5		True
+105	Money	10M money	10		True
+106	Reference	Quick reference	0		False
+107	Reference	Quick reference	0		False
+108	Reference	Quick reference	0		False
+109	Reference	Quick reference	0		False

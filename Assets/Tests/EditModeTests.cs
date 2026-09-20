@@ -1,0 +1,39 @@
+using NUnit.Framework;
+namespace DealNight.Tests { public class EditModeTests {
+ [Test] public void Deck(){RuleChecks.Deck();}
+ [Test] public void Initial(){RuleChecks.Initial();}
+ [Test] public void PlayLimit(){RuleChecks.PlayLimit();}
+ [Test] public void HandLimit(){RuleChecks.HandLimit();}
+ [Test] public void Payment(){RuleChecks.Payment();}
+ [Test] public void Overpay(){RuleChecks.Overpay();}
+ [Test] public void EmptyPayment(){RuleChecks.EmptyPayment();}
+ [Test] public void Wildcards(){RuleChecks.Wildcards();}
+ [Test] public void Steals(){RuleChecks.Steals();}
+ [Test] public void Swap(){RuleChecks.Swap();}
+ [Test] public void BuildingsAndBreaker(){RuleChecks.BuildingsAndBreaker();}
+ [Test] public void RentDouble(){RuleChecks.RentDouble();}
+ [Test] public void Reactions(){RuleChecks.Reactions();}
+ [Test] public void Reshuffle(){RuleChecks.Reshuffle();}
+ [Test] public void WinTiming(){RuleChecks.WinTiming();}
+ [Test] public void Privacy(){RuleChecks.Privacy();}
+ [Test] public void Birthday(){RuleChecks.Birthday();}
+ [Test] public void Universal(){RuleChecks.Universal();}
+ [Test] public void BuildingRestrictions(){RuleChecks.BuildingRestrictions();}
+ [Test] public void ExactDistribution(){RuleChecks.ExactDistribution();}
+ [Test] public void ValuedWildBank(){RuleChecks.ValuedWildBank();}
+ [Test] public void PropertyPayment(){RuleChecks.PropertyPayment();}
+ [Test] public void InsufficientSelectionRejected(){RuleChecks.InsufficientSelectionRejected();}
+ [Test] public void RentTargets(){RuleChecks.RentTargets();}
+ [Test] public void MultiTargetNo(){RuleChecks.MultiTargetNo();}
+ [Test] public void Consolidate(){RuleChecks.Consolidate();}
+ [Test] public void DormantBuildings(){RuleChecks.DormantBuildings();}
+ [Test] public void ResponsiveGrid(){RuleChecks.ResponsiveGrid();}
+ [Test] public void PlayerIdentity(){RuleChecks.PlayerIdentity();}
+ [Test] public void WildTransferAndRotate(){RuleChecks.WildTransferAndRotate();}
+ [Test] public void PlacementDecisions(){RuleChecks.PlacementDecisions();}
+ [Test] public void SmartPayments(){RuleChecks.SmartPayments();}
+ [Test] public void SameColorWildcardMoveIsFree(){RuleChecks.SameColorWildcardMoveIsFree();}
+ [Test] public void OpponentIdentities(){RuleChecks.OpponentIdentities();}
+ [Test] public void AnimationSpeedSteps(){RuleChecks.AnimationSpeedSteps();}
+ [Test] public void ContextPayment(){RuleChecks.ContextPayment();}
+} }

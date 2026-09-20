@@ -1,0 +1,5 @@
+{
+  "name": "DealNight.Core",
+  "rootNamespace": "DealNight.Core",
+  "noEngineReferences": true
+}

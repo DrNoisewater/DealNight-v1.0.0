@@ -1,0 +1,34 @@
+YOUR OBJECTIVE
+Collect three complete property sets in different colors. Brown and dark blue need 2; most streets need 3; railroads need 4; utilities need 2.
+
+YOUR TURN
+Start with five cards. Draw two each turn, or five if your hand was empty. Play up to three cards. You may end early. Finish with at most seven cards in hand.
+
+PLAY OR BANK
+Click a hand card, then Play or Bank. Steals and trades ask you to choose a player first, then their card, and your offered card when needed. Properties build sets. Actions draw, charge rent, steal or swap. Bank money and eligible cards to protect your properties against future bills. In this B0965 interpretation, valued two-color wildcards may also be banked. Banked cards never regain their action/property role.
+
+PAYMENT
+Click bank cards, properties, or buildings in the payment window. Selected cards are marked and the total updates immediately. Suggest payment gives you an editable starting selection. Never pay from your hand. No change is given. If you cannot afford the full bill, pay all valued assets. Universal wildcards have no payment value.
+
+STEALS
+Sly Deal takes one property outside a complete set. Forced Deal trades one of your properties for an opponent's unprotected property. Deal Breaker takes a full set, including buildings.
+
+RENT
+Paired-color rent charges every opponent for one matching group. Any-color rent charges one opponent. Select the Rent card to add doubles. One double makes 2× rent; two make 4×. Each attached double consumes an additional card play.
+
+SAY NO
+Use Just Say No when prompted to cancel an action against you. The other player may counter, and you can counter again. There is no timer. Reactive cards do not consume normal turn plays in this implementation. On a multi-opponent action, a No protects only its target.
+
+HOUSES AND HOTELS
+A complete street set may have one house (+3 rent) and one hotel (+4 more). A hotel requires a house. Railroads and utilities cannot have buildings. Broken sets keep dormant buildings; paid buildings enter the receiver's bank.
+
+REARRANGE
+Click one of your table groups, then a card to see moves. Wildcards can change allowed color only on your turn. Ordinary properties can consolidate into a matching group. Same-color regrouping is free. Rotating a laid wildcard to a different color costs one play. Stealing/receiving it preserves its old color and adds no extra cost. No rearrangement during a reaction or payment.
+
+INTERFACE
+Click cards to inspect and choose legal commands. Steals, swaps and actions are confirmed. Your hand and each property area automatically resize to fit. Click compact cards/groups to inspect them. Drag a hand card upward as a shortcut to inspection. All actions are available through click controls.
+
+VICTORY
+Win on your turn when three distinct colors are complete and all payments/reactions have finished. Universal wildcards alone do not make a valid winning set.
+
+Enter your name at first launch; change it any time in Settings. Incoming action explanations are shown before your response. Click or hover the action title to reveal the explanation again. A played Just Say No shows a stop-hand animation before play resumes. Settings includes animation duration and complete-set sorting. Hover the small match/opponent badges for ownership details. Use Pause for settings, rules or leaving a match. RULES.md in the project documents the exact 106-card playable deck plus four reference cards and all edition choices.

@@ -1,0 +1,12 @@
+{
+  "name": "DealNight.Tests",
+  "references": [
+    "DealNight.Core"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}

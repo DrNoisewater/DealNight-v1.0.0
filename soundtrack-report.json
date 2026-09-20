@@ -1,0 +1,62 @@
+[
+  {
+    "file": "01_Lobby_at_Dusk.ogg",
+    "title": "Lobby at Dusk",
+    "bpm": 120,
+    "seconds": 99.0,
+    "peak_dbfs": -5.68,
+    "rms_dbfs": -21.0,
+    "decoded_peak_dbfs": -5.57,
+    "sample_rate": 32000,
+    "channels": 2,
+    "bytes": 1124109
+  },
+  {
+    "file": "02_Penny_Arcade_Promenade.ogg",
+    "title": "Penny Arcade Promenade",
+    "bpm": 116,
+    "seconds": 102.31,
+    "peak_dbfs": -5.68,
+    "rms_dbfs": -21.53,
+    "decoded_peak_dbfs": -5.64,
+    "sample_rate": 32000,
+    "channels": 2,
+    "bytes": 1149052
+  },
+  {
+    "file": "03_The_Velvet_Exchange.ogg",
+    "title": "The Velvet Exchange",
+    "bpm": 100,
+    "seconds": 118.2,
+    "peak_dbfs": -5.68,
+    "rms_dbfs": -22.11,
+    "decoded_peak_dbfs": -5.55,
+    "sample_rate": 32000,
+    "channels": 2,
+    "bytes": 1339005
+  },
+  {
+    "file": "04_Sidewalk_Serenade.ogg",
+    "title": "Sidewalk Serenade",
+    "bpm": 112,
+    "seconds": 105.86,
+    "peak_dbfs": -5.68,
+    "rms_dbfs": -21.79,
+    "decoded_peak_dbfs": -5.73,
+    "sample_rate": 32000,
+    "channels": 2,
+    "bytes": 1190428
+  },
+  {
+    "file": "05_Last_Tram_Home.ogg",
+    "title": "Last Tram Home",
+    "bpm": 96,
+    "seconds": 123.0,
+    "peak_dbfs": -5.68,
+    "rms_dbfs": -21.79,
+    "decoded_peak_dbfs": -5.63,
+    "sample_rate": 32000,
+    "channels": 2,
+    "bytes": 1367476
+  }
+]

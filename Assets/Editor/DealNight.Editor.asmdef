@@ -1,0 +1,6 @@
+{
+  "name": "DealNight.Editor",
+  "includePlatforms": [
+    "Editor"
+  ]
+}
